@@ -3,6 +3,7 @@
 import { navLinks } from "@/constants/nav-links";
 import { Menu, X } from "lucide-react";
 import Link from "next/link";
+import React from "react";
 import { useState } from "react";
 
 const MobileNav = () => {
